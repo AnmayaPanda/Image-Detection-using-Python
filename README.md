@@ -24,7 +24,7 @@ This project demonstrates real-time object detection using:
 2. **Run:** Execute the script from the command line:
 
    ```bash
-   python object_detection.py
+   python object_identification_photo.py
 3. **Input:** The script expects a test image named lena.png to be present in the same directory.
 
 ### Code Walkthrough
